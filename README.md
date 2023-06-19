@@ -1,7 +1,8 @@
 # image_segmentation_autonomous_driving
 Python scripts about image segmentation for autonomous driving using Keras and a custom segmentation framework.
 
-
+![alt text](https://github.com/christianmarescalco/image_segmentation_autonomous_driving/examples/generated1.png)
+![alt text](https://github.com/christianmarescalco/image_segmentation_autonomous_driving/examples/true_image.png)
 
 # References
 This repository uses the following framework: 

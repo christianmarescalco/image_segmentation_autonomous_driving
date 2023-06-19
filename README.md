@@ -6,5 +6,6 @@ Python scripts about image segmentation for autonomous driving using Keras and a
 # References
 This repository uses the following framework: 
 - https://github.com/divamgupta/image-segmentation-keras
+
 and the following dataset (Mapillary Vistas):
 - https://ieeexplore.ieee.org/document/8237796
